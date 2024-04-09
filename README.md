@@ -5,9 +5,6 @@ Oiii! Eu sou Fellipe Vidal
 - 📫 How to reach me:  fellipe.vidal@outlook.com
 - 😄 Pronouns: ele/dele
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipevidal&show_icons=true&theme=dark)
-
 <div>
   <img src=https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
